@@ -1,0 +1,14 @@
+#red {
+    background-image: url("bali.jpg");
+    background-size: cover;
+}
+
+#green {
+    background-image: url("barcelona.jpg");
+    background-size: contain;
+}
+
+#sea {
+    background-image: url("hawaii.jpg");
+    background-size: auto;
+}

@@ -1,0 +1,14 @@
+#red {
+    font-weight: 200;
+    font-style: italic;
+}
+
+#green {
+    font-weight: 400;
+    font-style: oblique;
+}
+
+#sea {
+    font-weight: 700;
+    font-style: initial;
+}

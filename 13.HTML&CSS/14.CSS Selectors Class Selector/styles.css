@@ -1,0 +1,19 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+a {
+    color: blue;
+}
+
+.off {
+    color: red;
+}
+
+.on {
+    color: green;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+}

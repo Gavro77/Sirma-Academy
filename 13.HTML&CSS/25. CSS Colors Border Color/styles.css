@@ -1,0 +1,13 @@
+#red {
+    border-style: solid;
+    border-color: red;
+    border-radius: 2px;
+}
+#green {
+    border-style: dotted;
+    border-color: green;
+}
+#sea {
+    border-style: solid;
+    border-color: slategrey;
+}
