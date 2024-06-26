@@ -1,0 +1,11 @@
+.block {
+    background-color: red;
+}
+
+.inline {
+    background-color: aqua;
+}
+
+.inline-block {
+    background-color: brown;
+}

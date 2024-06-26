@@ -1,0 +1,9 @@
+div p {
+    text-align: right;
+    color: cadetblue;
+}
+
+div > p {
+    text-align: center;
+    color: blue;
+}

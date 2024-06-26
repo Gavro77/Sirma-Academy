@@ -1,0 +1,12 @@
+input[type="text"] {
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    color: red;
+}
+
+a [href="https://sirmaacademy.com"]
+{
+    color: black;
+}

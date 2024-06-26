@@ -1,0 +1,15 @@
+.highlight {
+    color: red;
+    background-color: aquamarine;
+}
+
+.common-style {
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.highlight-1 {
+    background-color: cornflowerblue;
+    text-decoration: overline;
+}
