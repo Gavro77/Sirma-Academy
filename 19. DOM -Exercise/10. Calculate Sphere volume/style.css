@@ -1,0 +1,11 @@
+body {
+    padding-top: 20px;
+    padding-left: 20px;
+    color: cornflowerblue;
+}
+
+label,
+input {
+    display: block;
+    color: blue;
+}
