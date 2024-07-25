@@ -1,0 +1,19 @@
+function createPrivateCounter() {
+    let count = 0;
+    return {
+        increment: function () {
+            count++;
+        },
+        getCount: function () {
+            return count;
+        },
+    };
+}
+
+// const counter = createPrivateCounter();
+// counter.increment();
+// counter.increment();
+// counter.increment();
+// counter.increment();
+// counter.increment();
+// console.log(counter.getCount());
